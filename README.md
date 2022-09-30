@@ -1,1 +1,2 @@
-my personal python project
+# this is my personal python project
+## please dont spam
